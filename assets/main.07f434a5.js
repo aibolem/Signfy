@@ -1,5 +1,5 @@
-import "./assets/dynamic-import-polyfill.b3685604.js";
-import {f as e, l as t, a, s as o, b as n, d} from "./assets/vendor.862a424b.js";
+import "./dynamic-import-polyfill.b3685604.js";
+import {f as e, l as t, a, s as o, b as n, d} from "./vendor.862a424b.js";
 const c = {
     apiKey: "AIzaSyCu8FY9LoMezLVBZ6P9ObE1aD_6W3lD7oY",
     authDomain: "video-chat-1f4d1-31213.firebaseapp.com",

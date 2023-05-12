@@ -1,13 +1,13 @@
 import "./assets/dynamic-import-polyfill.b3685604.js";
 import {f as e, l as t, a, s as o, b as n, d} from "./assets/vendor.862a424b.js";
 const c = {
-    apiKey: "AIzaSyA3xO6vGVRARsbyN6Ygy7pRrRL9jZR2aOA",
-    authDomain: "video-chat-1f4d1.firebaseapp.com",
-    projectId: "video-chat-1f4d1",
-    storageBucket: "video-chat-1f4d1.appspot.com",
-    messagingSenderId: "169066770490",
-    appId: "1:169066770490:web:8107c54a4ffddb1e644503",
-    measurementId: "G-0VWZWVPMMZ"
+    apiKey: "AIzaSyCu8FY9LoMezLVBZ6P9ObE1aD_6W3lD7oY",
+    authDomain: "video-chat-1f4d1-31213.firebaseapp.com",
+    projectId: "video-chat-1f4d1-31213",
+    storageBucket: "video-chat-1f4d1-31213.appspot.com",
+    messagingSenderId: "895567670584",
+    appId: "1:895567670584:web:f6c36b30a6835c1e91a5cd"
+    measurementId: ""
 };
 e.apps.length || e.initializeApp(c);
 const s = e.firestore()

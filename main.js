@@ -13,8 +13,7 @@ const firebaseConfig = {
     storageBucket: "video-chat-1f4d1-31213.appspot.com",
     messagingSenderId: "895567670584",
     appId: "1:895567670584:web:f6c36b30a6835c1e91a5cd"
-  measurementId: ""
-};
+ };
 
 if (!firebase.apps.length) {
   firebase.initializeApp(firebaseConfig);

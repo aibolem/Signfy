@@ -7,7 +7,7 @@ const c = {
     storageBucket: "video-chat-1f4d1-31213.appspot.com",
     messagingSenderId: "895567670584",
     appId: "1:895567670584:web:f6c36b30a6835c1e91a5cd"
-    measurementId: ""
+
 };
 e.apps.length || e.initializeApp(c);
 const s = e.firestore()

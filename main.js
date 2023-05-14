@@ -2,7 +2,7 @@ import './style.css';
 import 'webrtc-adapter';
 
 
-import firebase from 'firebase/app';
+import 'firebase/app';
 import 'firebase/firestore';
 
 const firebaseConfig = {

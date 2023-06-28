@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "^4.4.0",
-    "firebase": "^8.2.10",
+    "firebase": "^8.10.1",
     "webrtc-adapter": "^8.2.2"
   }
 }
